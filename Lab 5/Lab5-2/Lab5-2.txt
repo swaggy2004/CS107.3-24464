@@ -1,0 +1,12 @@
+Question 04.
+Add a separate class file to Console application program and create a method call private void sgyHello().
+
+Inside the method display hello world.
+
+In main class create a class object and try to access the sayHello( ) method by using the class object.
+
+Can you access the method?
+-> No
+
+Explain why?
+-> Becuase you are trying to call a method that is private on only used within the class you cannot call that method outside that class becuase the "private" access specifer doesn't allow it and it has been encapsulated inside this method. 
