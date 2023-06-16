@@ -1,8 +1,0 @@
-C:\Users\Swaggy\OneDrive - NSBM\NSBM\Subjects\Degree\1st_Year\2 Sem\C#\repo\C# Main Lecture\Lab5-1\obj\Debug\Lab5-1.csproj.AssemblyReference.cache
-C:\Users\Swaggy\OneDrive - NSBM\NSBM\Subjects\Degree\1st_Year\2 Sem\C#\repo\C# Main Lecture\Lab5-1\obj\Debug\Lab5-1.csproj.SuggestedBindingRedirects.cache
-C:\Users\Swaggy\OneDrive - NSBM\NSBM\Subjects\Degree\1st_Year\2 Sem\C#\repo\C# Main Lecture\Lab5-1\obj\Debug\Lab5-1.csproj.CoreCompileInputs.cache
-C:\Users\Swaggy\OneDrive - NSBM\NSBM\Subjects\Degree\1st_Year\2 Sem\C#\repo\C# Main Lecture\Lab5-1\bin\Debug\Lab5-1.exe.config
-C:\Users\Swaggy\OneDrive - NSBM\NSBM\Subjects\Degree\1st_Year\2 Sem\C#\repo\C# Main Lecture\Lab5-1\bin\Debug\Lab5-1.exe
-C:\Users\Swaggy\OneDrive - NSBM\NSBM\Subjects\Degree\1st_Year\2 Sem\C#\repo\C# Main Lecture\Lab5-1\bin\Debug\Lab5-1.pdb
-C:\Users\Swaggy\OneDrive - NSBM\NSBM\Subjects\Degree\1st_Year\2 Sem\C#\repo\C# Main Lecture\Lab5-1\obj\Debug\Lab5-1.exe
-C:\Users\Swaggy\OneDrive - NSBM\NSBM\Subjects\Degree\1st_Year\2 Sem\C#\repo\C# Main Lecture\Lab5-1\obj\Debug\Lab5-1.pdb
