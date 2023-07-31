@@ -1,0 +1,8 @@
+C:\Users\Swaggy\OneDrive - NSBM\NSBM\Subjects\Degree\1st_Year\2 Sem\C#\repo\Labs\Lab 6\task2\bin\Debug\task2.exe.config
+C:\Users\Swaggy\OneDrive - NSBM\NSBM\Subjects\Degree\1st_Year\2 Sem\C#\repo\Labs\Lab 6\task2\bin\Debug\task2.exe
+C:\Users\Swaggy\OneDrive - NSBM\NSBM\Subjects\Degree\1st_Year\2 Sem\C#\repo\Labs\Lab 6\task2\bin\Debug\task2.pdb
+C:\Users\Swaggy\OneDrive - NSBM\NSBM\Subjects\Degree\1st_Year\2 Sem\C#\repo\Labs\Lab 6\task2\obj\Debug\task2.csproj.AssemblyReference.cache
+C:\Users\Swaggy\OneDrive - NSBM\NSBM\Subjects\Degree\1st_Year\2 Sem\C#\repo\Labs\Lab 6\task2\obj\Debug\task2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Swaggy\OneDrive - NSBM\NSBM\Subjects\Degree\1st_Year\2 Sem\C#\repo\Labs\Lab 6\task2\obj\Debug\task2.csproj.CoreCompileInputs.cache
+C:\Users\Swaggy\OneDrive - NSBM\NSBM\Subjects\Degree\1st_Year\2 Sem\C#\repo\Labs\Lab 6\task2\obj\Debug\task2.exe
+C:\Users\Swaggy\OneDrive - NSBM\NSBM\Subjects\Degree\1st_Year\2 Sem\C#\repo\Labs\Lab 6\task2\obj\Debug\task2.pdb
